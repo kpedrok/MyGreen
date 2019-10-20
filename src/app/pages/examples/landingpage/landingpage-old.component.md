@@ -1,8 +1,7 @@
 <nav class="navbar navbar-expand-lg fixed-top navbar-transparent" color-on-scroll="100" id="navbar-top">
   <div class="container">
     <div class="navbar-translate">
-      <a class="navbar-brand" [routerLink]="['/landing']" placement="bottom"
-        tooltip="Designed and Coded by Creative Tim">
+      <a class="navbar-brand" [routerLink]="['/home']" placement="bottom" tooltip="Designed and Coded by Creative Tim">
         <span> MG• </span> MyGreen
       </a>
       <button aria-controls="navigation-index" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler"
@@ -47,11 +46,11 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" [routerLink]="['/landing']"> Home </a>
+          <a class="nav-link" [routerLink]="['/home']"> Back to Kit </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" [routerLink]="['/profile']">
-            Perfil
+          <a class="nav-link" href="https://github.com/creativetimofficial/blk-design-system-angular/issues">
+            Have an issue?
           </a>
         </li>
       </ul>
@@ -81,7 +80,9 @@
             <span class="text-white"> sustentável? </span>
           </h1>
           <p class="text-white mb-3">
-            Para um mundo melhor você precisa ajudar também. Por isso nasceu o mygreen.
+            A wonderful serenity has taken possession of my entire soul, like
+            these sweet mornings of spring which I enjoy with my whole heart. I
+            am alone, and feel...
           </p>
           <div class="btn-wrapper mb-3">
             <p class="category text-success d-inline mr-1">Faça acontecer</p>
@@ -128,9 +129,9 @@
                       </div>
                       <div class="col-7 col-md-8">
                         <div class="numbers">
-                          <p class="card-title">1</p>
+                          <p class="card-title">3,237</p>
                           <p></p>
-                          <p class="card-category">Badges</p>
+                          <p class="card-category">Awards</p>
                         </div>
                       </div>
                     </div>
@@ -148,9 +149,9 @@
                       </div>
                       <div class="col-7 col-md-8">
                         <div class="numbers">
-                          <p class="card-title">82</p>
+                          <p class="card-title">3,653</p>
                           <p></p>
-                          <p class="card-category">Sua pontuação</p>
+                          <p class="card-category">Commits</p>
                         </div>
                       </div>
                     </div>
@@ -170,9 +171,9 @@
                       </div>
                       <div class="col-7 col-md-8">
                         <div class="numbers">
-                          <p class="card-title">0</p>
-                          <p>Cupons</p>
-                          <p class="card-category"></p>
+                          <p class="card-title">593</p>
+                          <p></p>
+                          <p class="card-category">Presents</p>
                         </div>
                       </div>
                     </div>
@@ -191,6 +192,9 @@
                       </div>
                       <div class="col-7 col-md-8">
                         <div class="numbers">
+                          <p class="card-title">10,783</p>
+                          <p></p>
+                          <p class="card-category">Forks</p>
                         </div>
                       </div>
                     </div>
@@ -202,18 +206,26 @@
           <div class="col-md-6">
             <div class="pl-md-5">
               <h1>
-                Atributos <br />
-                Responsivos
+                Large <br />
+
+                Achivements
               </h1>
               <p>
-                Nós criamos o aplicativo para que você, além de interagir e melhorar o Meio Ambiente,
-                ainda consegue se divertir através da gamificação para tentar alcançar suas metas de
-                pontuação e ganhar emblemas, como o selo verde.
+                I should be capable of drawing a single stroke at the present
+                moment; and yet I feel that I never was a greater artist than
+                now.
+              </p>
+              <br />
+
+              <p>
+                When, while the lovely valley teems with vapour around me, and
+                the meridian sun strikes the upper surface of the impenetrable
+                foliage of my trees, and but a few stray.
               </p>
               <br />
 
               <a class="font-weight-bold text-info mt-5" href="javascript:void(0)">
-                Indique amigos <i class="tim-icons icon-minimal-right text-info"> </i>
+                Show all <i class="tim-icons icon-minimal-right text-info"> </i>
               </a>
             </div>
           </div>
@@ -221,14 +233,14 @@
       </div>
     </section>
   </section>
-  <section class="section">
+  <section class="section section-lg">
     <img class="path" src="assets/img/path4.png" />
 
     <img class="path2" src="assets/img/path5.png" />
 
     <img class="path3" src="assets/img/path2.png" />
 
-    <!-- <div class="container">
+    <div class="container">
       <div class="row justify-content-center">
         <div class="col-lg-12">
           <h1 class="text-center">Your best benefit</h1>
@@ -267,7 +279,7 @@
                 <div class="icon icon-success">
                   <i class="tim-icons icon-single-02"> </i>
                 </div>
-                <h4 class="info-title">Empresas parceiras</h4>
+                <h4 class="info-title">Verified People</h4>
                 <hr class="line-success" />
 
                 <p>
@@ -280,7 +292,7 @@
           </div>
         </div>
       </div>
-    </div> -->
+    </div>
   </section>
   <section class="section section-lg section-safe">
     <img class="path" src="assets/img/path5.png" />
@@ -295,7 +307,7 @@
               <div class="justify-content-center">
                 <div class="numbers">
                   <p class="card-title">100%</p>
-                  <p class="card-category text-white">Seguro</p>
+                  <p class="card-category text-white">Safe</p>
                 </div>
               </div>
             </div>
@@ -304,8 +316,8 @@
             <div class="card-body">
               <div class="justify-content-center">
                 <div class="numbers">
-                  <p class="card-title">X</p>
-                  <p class="card-category text-white">Pessoas engajadas</p>
+                  <p class="card-title">573 K</p>
+                  <p class="card-category text-white">Satisfied customers</p>
                 </div>
               </div>
             </div>
@@ -325,10 +337,11 @@
           <div class="px-md-5">
             <hr class="line-success" />
 
-            <h3>Design minimalista</h3>
+            <h3>Awesome features</h3>
             <p>
-              A interface do sistema permite que você interaja de forma simples e educativa, além de
-              informar as ODS's (Objetivo de Desenvolvimento Sustentável) da ONU.
+              The design system comes with three pre-built pages to help you get
+              started faster. You can change the text and images and you're good
+              to go.
             </p>
             <ul class="list-unstyled mt-5">
               <li class="py-2">
@@ -337,7 +350,7 @@
                     <i class="tim-icons icon-vector"> </i>
                   </div>
                   <div class="ml-3">
-                    <h6>Metas personalizadas</h6>
+                    <h6>Carefully crafted components</h6>
                   </div>
                 </div>
               </li>
@@ -347,7 +360,7 @@
                     <i class="tim-icons icon-tap-02"> </i>
                   </div>
                   <div class="ml-3">
-                    <h6>Interfaces responsivas</h6>
+                    <h6>Amazing page examples</h6>
                   </div>
                 </div>
               </li>
@@ -357,7 +370,7 @@
                     <i class="tim-icons icon-single-02"> </i>
                   </div>
                   <div class="ml-3">
-                    <h6>Totalmente compartilhável</h6>
+                    <h6>Super friendly support team</h6>
                   </div>
                 </div>
               </li>
@@ -379,7 +392,7 @@
             <div class="col-sm-6 text-left">
               <hr class="line-primary" />
 
-              <h5 class="card-category">Total Points</h5>
+              <h5 class="card-category">Total Investments</h5>
               <h2 class="card-title">Performance</h2>
             </div>
           </div>
@@ -393,7 +406,7 @@
   <section class="section section-lg section-coins">
     <img class="path" src="assets/img/path3.png" />
 
-    <!-- <div class="container">
+    <div class="container">
       <div class="row">
         <div class="col-md-4">
           <hr class="line-info" />
@@ -484,7 +497,7 @@
           </div>
         </div>
       </div>
-    </div> -->
+    </div>
   </section>
   <footer class="footer">
     <div class="container">
@@ -494,21 +507,21 @@
         </div>
         <div class="col-md-3">
           <ul class="nav">
-            <!-- <li class="nav-item">
+            <li class="nav-item">
               <a class="nav-link" [routerLink]="['/home']"> Home </a>
-            </li> -->
+            </li>
             <li class="nav-item">
               <a class="nav-link" [routerLink]="['/landing']"> Landing </a>
             </li>
-            <!-- <li class="nav-item">
+            <li class="nav-item">
               <a class="nav-link" [routerLink]="['/register']"> Register </a>
-            </li> -->
+            </li>
             <li class="nav-item">
               <a class="nav-link" [routerLink]="['/profile']"> Profile </a>
             </li>
           </ul>
         </div>
-        <!-- <div class="col-md-3">
+        <div class="col-md-3">
           <ul class="nav">
             <li class="nav-item">
               <a class="nav-link" href="https://creative-tim.com/contact-us?ref=blkdsa-footer">
@@ -548,7 +561,7 @@
               <i class="fab fa-dribbble"> </i>
             </a>
           </div>
-        </div> -->
+        </div>
       </div>
     </div>
   </footer>

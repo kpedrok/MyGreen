@@ -55,4 +55,4 @@ import { LandingpageComponent } from "./examples/landingpage/landingpage.compone
   ],
   providers: []
 })
-export class PagesModule {}
+export class PagesModule { }
