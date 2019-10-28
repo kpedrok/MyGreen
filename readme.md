@@ -27,21 +27,19 @@ Make data accessible to everyone to monitor and act on ambiental problems. MyGre
 ​
 
 ### Material Resources:
-Visit our GitHub!​
-https://github.com/kpedrok/MyGreen
-https://globescan.com/greendex-2014-consumer-choice-and-the-environment-a-worldwide-tracking-survey-full-report/​​
-https://www.nationalgeographic.com/greendex/assets/GS_NGS_Full_Report_May09.pdf​​
-https://www.who.int/airpollution/en/​
-https://sedac.ciesin.columbia.edu/data/set/lulc-development-threat-index
-https://sedac.ciesin.columbia.edu/data/set/epi-environmental-performance-index-2018
-https://sedac.ciesin.columbia.edu/data/collections/browse​
-https://footprint.wwf.org.uk/#/results/
-https://2019.spaceappschallenge.org/challenges/living-our-world/smash-your-sdgs/details​
-https://www.programmableweb.com/category/sustainab...
-https://datacatalog.worldbank.org/dataset/sustaina...
-http://wdi.worldbank.org/tables
-https://arset.gsfc.nasa.gov/about/models-tools
-https://www.nationalgeographic.com/greendex/assets/GS_NGS_Full_Report_May09.pdf​
-https://unsplash.com/photos/wZTiKB6rQYY​ Photo by Dominik Dancs on Unsplash
-https://unsplash.com/photos/PAfgEDLOQH4​ Photo by Holger Link on Unsplash
+- https://globescan.com/greendex-2014-consumer-choice-and-the-environment-a-worldwide-tracking-survey-full-report/​​
+- https://www.nationalgeographic.com/greendex/assets/GS_NGS_Full_Report_May09.pdf​​
+- https://www.who.int/airpollution/en/​
+- https://sedac.ciesin.columbia.edu/data/set/lulc-development-threat-index
+- https://sedac.ciesin.columbia.edu/data/set/epi-environmental-performance-index-2018
+- https://sedac.ciesin.columbia.edu/data/collections/browse​
+- https://footprint.wwf.org.uk/#/results/
+- https://2019.spaceappschallenge.org/challenges/living-our-world/smash-your-sdgs/details​
+- https://www.programmableweb.com/category/sustainab...
+- https://datacatalog.worldbank.org/dataset/sustaina...
+- http://wdi.worldbank.org/tables
+- https://arset.gsfc.nasa.gov/about/models-tools
+- https://www.nationalgeographic.com/greendex/assets/GS_NGS_Full_Report_May09.pdf​
+- https://unsplash.com/photos/wZTiKB6rQYY​ Photo by Dominik Dancs on Unsplash
+- https://unsplash.com/photos/PAfgEDLOQH4​ Photo by Holger Link on Unsplash
 
