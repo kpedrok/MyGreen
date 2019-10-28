@@ -1,0 +1,117 @@
+/*
+=========================================================
+* mygreen Design System Angular - v1.0.0
+=========================================================
+
+* Product Page: https://www.creative-tim.com/product/mygreen-design-system-angular
+* Copyright 2019 "" (https://www.creative-tim.com)
+* Licensed under MIT
+
+* Coded by ""
+
+=========================================================
+
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ */
+
+// Core
+
+@import "mygreen-design-system/custom/functions";
+@import "mygreen-design-system/bootstrap/functions";
+
+@import "mygreen-design-system/custom/variables";
+@import "mygreen-design-system/bootstrap/variables";
+
+@import "mygreen-design-system/custom/mixins";
+@import "mygreen-design-system/bootstrap/mixins";
+
+// Bootstrap components
+
+@import "mygreen-design-system/bootstrap/root";
+@import "mygreen-design-system/bootstrap/reboot";
+@import "mygreen-design-system/bootstrap/type";
+@import "mygreen-design-system/bootstrap/images";
+@import "mygreen-design-system/bootstrap/code";
+@import "mygreen-design-system/bootstrap/grid";
+@import "mygreen-design-system/bootstrap/tables";
+@import "mygreen-design-system/bootstrap/forms";
+@import "mygreen-design-system/bootstrap/buttons";
+@import "mygreen-design-system/bootstrap/transitions";
+@import "mygreen-design-system/bootstrap/dropdown";
+@import "mygreen-design-system/bootstrap/button-group";
+@import "mygreen-design-system/bootstrap/input-group";
+@import "mygreen-design-system/bootstrap/custom-forms";
+@import "mygreen-design-system/bootstrap/nav";
+@import "mygreen-design-system/bootstrap/navbar";
+@import "mygreen-design-system/bootstrap/card";
+@import "mygreen-design-system/bootstrap/breadcrumb";
+@import "mygreen-design-system/bootstrap/pagination";
+@import "mygreen-design-system/bootstrap/badge";
+@import "mygreen-design-system/bootstrap/jumbotron";
+@import "mygreen-design-system/bootstrap/alert";
+@import "mygreen-design-system/bootstrap/progress";
+@import "mygreen-design-system/bootstrap/media";
+@import "mygreen-design-system/bootstrap/list-group";
+@import "mygreen-design-system/bootstrap/close";
+@import "mygreen-design-system/bootstrap/modal";
+@import "mygreen-design-system/bootstrap/tooltip";
+@import "mygreen-design-system/bootstrap/popover";
+@import "mygreen-design-system/bootstrap/carousel";
+@import "mygreen-design-system/bootstrap/utilities";
+@import "mygreen-design-system/bootstrap/print";
+
+// Custom components
+
+@import "mygreen-design-system/custom/alerts.scss";
+@import "mygreen-design-system/custom/buttons.scss";
+@import "mygreen-design-system/custom/dropdown.scss";
+@import "mygreen-design-system/custom/footer.scss";
+@import "mygreen-design-system/custom/forms.scss";
+@import "mygreen-design-system/custom/images.scss";
+@import "mygreen-design-system/custom/modal.scss";
+@import "mygreen-design-system/custom/navbar.scss";
+@import "mygreen-design-system/custom/type.scss";
+@import "mygreen-design-system/custom/icons.scss";
+@import "mygreen-design-system/custom/tables";
+@import "mygreen-design-system/custom/checkboxes-radio";
+@import "mygreen-design-system/custom/fixed-plugin";
+@import "mygreen-design-system/custom/pagination.scss";
+@import "mygreen-design-system/custom/misc.scss";
+@import "mygreen-design-system/custom/rtl.scss";
+@import "mygreen-design-system/custom/input-group.scss";
+@import "mygreen-design-system/custom/example-pages.scss";
+@import "mygreen-design-system/custom/progress.scss";
+@import "mygreen-design-system/custom/badge.scss";
+@import "mygreen-design-system/custom/pills.scss";
+@import "mygreen-design-system/custom/tabs.scss";
+@import "mygreen-design-system/custom/info-areas.scss";
+
+// Sections
+@import "mygreen-design-system/custom/sections.scss";
+
+// Vendor / Plugins
+
+@import "mygreen-design-system/custom/vendor/plugin-perfect-scrollbar.scss";
+@import "mygreen-design-system/custom/vendor/plugin-animate-bootstrap-notify.scss";
+@import "mygreen-design-system/custom/vendor/plugin-bootstrap-switch.scss";
+@import "mygreen-design-system/custom/vendor/plugin-nouislider.scss";
+@import "mygreen-design-system/custom/vendor/plugin-datetimepicker.scss";
+
+// Cards
+
+@import "mygreen-design-system/custom/card";
+@import "mygreen-design-system/custom/cards/card-chart";
+@import "mygreen-design-system/custom/cards/card-map";
+@import "mygreen-design-system/custom/cards/card-user";
+@import "mygreen-design-system/custom/cards/card-task";
+@import "mygreen-design-system/custom/cards/card-plain";
+@import "mygreen-design-system/custom/cards/card-register";
+@import "mygreen-design-system/custom/cards/card-stats";
+@import "mygreen-design-system/custom/cards/card-chart";
+
+// Angular changes
+@import "mygreen-design-system/angular/tabs";
+@import "mygreen-design-system/angular/pills";
+@import "mygreen-design-system/angular/alerts";
+@import "mygreen-design-system/angular/datepicker";
+@import "mygreen-design-system/angular/example-pages";
